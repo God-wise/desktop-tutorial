@@ -1,2 +1,9 @@
 pater 2 :
 i died. and now i'm dead!
+<<<<<<< HEAD
+=======
+
+but...
+
+i'm alive
+>>>>>>> parent of 75843b1 (Revert "addint being alive")
