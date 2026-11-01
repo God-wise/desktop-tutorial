@@ -1,1 +1,2 @@
 blabalbla chpater3 on branch
+this edit is for checking new merging as we edit the master and chapter3 branch at the same time. chap3
