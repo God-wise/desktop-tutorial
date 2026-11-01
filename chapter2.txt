@@ -1,9 +1,6 @@
 pater 2 :
-i died. and now i'm dead!
-<<<<<<< HEAD
-=======
+i died. and now i'm dead! 
 
-but...
+it should be in the same line of work!
 
-i'm alive
->>>>>>> parent of 75843b1 (Revert "addint being alive")
+yk u should do this.
